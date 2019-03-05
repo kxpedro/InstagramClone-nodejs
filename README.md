@@ -1,6 +1,6 @@
 # Instagram Clone
 
-Web Aplication using de archteture RESTful based on Instragram using Node.js  
+Web Aplication using de architecture RESTful based on Instragram using Node.js  
 
 The objective of this was to work with the post and feed just like the Instagram (It doesnt have an login/sigin).  
 
